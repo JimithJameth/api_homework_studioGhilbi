@@ -2,12 +2,14 @@
 
 body {
   background-image:url("http://evansheline.com/wp-content/uploads/2010/12/howls-moving-castle.jpg");
+
 }
 
 .button1 {
+    border-radius: 10%;
     border: none;
     color: white;
-    padding: 16px 32px;
+    padding: 16px 35px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
@@ -62,9 +64,4 @@ ul{
 
 #films{
   list-style: none;
-}
-
-#button1{
-  cursor:url("catbuscursor.png"),auto ;
-
 }

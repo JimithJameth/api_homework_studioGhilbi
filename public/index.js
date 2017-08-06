@@ -24,7 +24,7 @@ var populateList = function(films){
     var li = document.createElement('li');
     var li2 = document.createElement('li2');
     li.innerText = film.title;
-    li.innterText = film.description;
+    li2.innterText = film.description;
  
   ul.appendChild(li);
   ul.appendChild(li2);
