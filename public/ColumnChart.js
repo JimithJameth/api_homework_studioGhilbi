@@ -12,8 +12,8 @@ var ColumnChart = function(){
     series:[{
       name:"Studio Gihbli Films By Rating",
       data:[{
-        y:10,
-        color:'orange',
+        y:6,
+        color:'blue',
       },7,3,6,5,4,8,7,7,6,9,6,10,8,7,6,7,8,6,5,]
     }],
     xAxis: {
